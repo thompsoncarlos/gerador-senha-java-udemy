@@ -12,11 +12,11 @@ Este projeto foi desenvolvido seguindo o curso: [Java 22: Aprenda POO + Componen
 
 1- Faça clone deste repositório localmente:
 ```
-    git clone https://github.com/thompsoncarlos/java-relogio-digital-udemy.git
+    git clone https://github.com/thompsoncarlos/java-gerador-senha-udemy.git
 ```
 2 - No terminal execute o comando para rodar projeto
 ```
-    java --module-path "<SEU DIRETÓRIO JAVA>\Java>\javafx-sdk-22.0.1\lib" --add-modules javafx.controls ProjetoRelogioDigital
+    java --module-path "<SEU DIRETÓRIO JAVA>\Java>\javafx-sdk-22.0.1\lib" --add-modules javafx.controls ProjetoGeradorDeSenhasGUI
 ```
 
 ![Print Project](./assets/project.png)

@@ -24,6 +24,3 @@ public class ProjetoGeradorSenhas {
 		System.out.println("Senha gerada: " + senha);
 	}
 }
-/*
-
-*/
