@@ -8,6 +8,8 @@ Este projeto foi desenvolvido seguindo o curso: [Java 22: Aprenda POO + Componen
 - JavaFX;
 - CSS
 
+- Utilização da class java.security.SecurityRandom
+
 ## Como Correr o projeto
 
 1- Faça clone deste repositório localmente:
